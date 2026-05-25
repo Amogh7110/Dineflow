@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍽️ Maison Étoile
 
 A full-stack restaurant management system built with Next.js, Node.js/Express, MongoDB, and Socket.IO.
@@ -16,3 +17,6 @@ cd backend && npm install && npm run dev
 # Frontend
 cd frontend && npm install && npm run dev
 ```
+=======
+# Dineflow
+>>>>>>> a0467cfcfefa425572189681b60dcdd936e97762
